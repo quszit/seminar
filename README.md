@@ -1,0 +1,2 @@
+# szeminarium
+Kvantumalgoritmusok szeminárium anyagai.
